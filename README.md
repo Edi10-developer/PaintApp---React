@@ -7,9 +7,7 @@
 ## Live Demo
 
 [Live Site](https://react-paint-app.netlify.app/)
-```
-It may not show the logo
-```
+
 
 ## View:
 
@@ -91,7 +89,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - JavaScript
 - React
-- [Meme API](https://api.imgflip.com/get_memes) 
+- [Random Colors](https://pub.dev/documentation/random_color/latest/random_color/random_color-library.html) 
 
 
 ## Author
