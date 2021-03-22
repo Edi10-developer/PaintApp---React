@@ -15,7 +15,7 @@ export default function Playground() {
   }, [count])
   
   return (
-    <div style={{ borderTop: `10px solid ${color}`}}>
+    <div>
      <Paint />
     </div>
   )

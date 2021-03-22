@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+![Image](./public/logo192.png)
+
+# Paint App 
+- Simple React App to paint with random colors.
+
+
+## Live Demo
+
+[Live Site](https://react-paint-app.netlify.app/)
+```
+It may not show the logo
+```
+
+## View:
+
+![Image](./public/example.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +85,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Built With
+
+- JavaScript
+- React
+- [Meme API](https://api.imgflip.com/get_memes) 
+
+
+## Author
+
+👤 **Author**
+- GitHub: [@Edi10-developer](https://github.com/Edi10-developer)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/edi-selimi-856671173/?locale=en_US)
+- Portfolio: [www.ediselimi.com](https://ediselimi.com/)
+
+
+## Show your support
+
+Contributions, issues, and feature requests are welcome!
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
